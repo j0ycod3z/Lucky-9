@@ -1,0 +1,7 @@
+C:\Users\Josh\Desktop\Luck9CPA.pdb
+C:\Users\Josh\Desktop\D3DCompiler_47_cor3.dll
+C:\Users\Josh\Desktop\PenImc_cor3.dll
+C:\Users\Josh\Desktop\PresentationNative_cor3.dll
+C:\Users\Josh\Desktop\vcruntime140_cor3.dll
+C:\Users\Josh\Desktop\wpfgfx_cor3.dll
+C:\Users\Josh\Desktop\Luck9CPA.exe

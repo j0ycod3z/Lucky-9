@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jiRi38ywjIMtOoi+QG+/1h5rbnvgrmqf3ZxDDUgfC9H8lj6MBB0GvMs2grUYkj8UamFi06qa4rAG+koUHMM7QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\source\\repos\\Luck9CPA\\Luck9CPA\\Luck9CPA.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
